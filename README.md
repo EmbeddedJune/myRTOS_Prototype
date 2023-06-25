@@ -1,6 +1,7 @@
 # RTOS 프로토타입 제작
 
 RTOS 프로토타입 제작 프로젝트입니다. (기간: 23.6.14 ~ 6.20)
+
 Target: QEMU ARMv7 Cortex-A8 Realview-PB
 
 ---
