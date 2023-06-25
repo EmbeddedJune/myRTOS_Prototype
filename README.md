@@ -21,12 +21,19 @@ Target: QEMU ARMv7 Cortex-A8 Realview-PB
 ## 프로젝트에 대한 설명
 
 [① 툴체인 설정 및 Startup 코드 개발](https://blog.naver.com/leeinje66/223128238302)
+
 [② 스택 초기화 및 부팅하기](https://blog.naver.com/leeinje66/223128682590)
+
 [③ UART](https://blog.naver.com/leeinje66/223128963414)
+
 [④ 인터럽트 컨트롤러](https://blog.naver.com/leeinje66/223129200393)
+
 [⑤ 타이머](https://blog.naver.com/leeinje66/223129565869)
+
 [⑥ 태스크](https://blog.naver.com/leeinje66/223130174151)
+
 [⑦ 통신 (Event, Message Queue)](https://blog.naver.com/leeinje66/223133405610)
+
 [⑧ 동기화 (Semaphore, Mutex)](https://blog.naver.com/leeinje66/223133922583)
 
 ---
